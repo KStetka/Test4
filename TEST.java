@@ -7,7 +7,8 @@ public class TEST
     {
         g = new GRAPH(9);
     }
-
+//test
+    
     public void graphErzeugen()
     {
         g.knotenEinfuegen("Altenmarkt");
